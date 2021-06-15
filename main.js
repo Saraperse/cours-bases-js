@@ -2,7 +2,7 @@
 
 var nomDuJoueur1 = "toto";
 var ageDuJoueur1 = 28;
-var estUnHommeJoueur1 = ;
+var estUnHommeJoueur1 = true;
 
 var nomDuJoueur2 = "tata";
 var ageDuJoueur2 = 25;
